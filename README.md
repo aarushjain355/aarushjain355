@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarush Jain</h1>
-<h3 align="center">An aspiring 2A Mechatronics Engineering Student interested in autonomous vehicles</h3>
+<h3 align="center">An aspiring 2A Mechatronics Engineering Student who loves racing autonomous cars</h3>
 
 - 🔭 I’m currently working on **a path planning control system that involves various path planning algorithms including A Star, Virtual histogram and Virtual Force Field.Also incorprates optimization techniques.**
 
