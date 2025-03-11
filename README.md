@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ROS, Arduino, Python**
 
-- 📫 How to reach me **aarushjain33555@gmail.com**
+- 📫 How to reach me **aarushjain33555@gmail.com** **https://aarushjain355.github.io/personal_website/**
 
 - ⚡ Fun fact **I love working out!**
 
